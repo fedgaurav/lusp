@@ -1,6 +1,6 @@
 # lusp
 
 So, Hello there, I have created my brand new website... and please don't think that it's an official website of any car company xd... 
-
+Basically my concept to build this website is only for developers who actually need this type of projects...
 Thanks for visiting!
 Have Fun!
